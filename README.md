@@ -6,3 +6,5 @@
 Лучше использовать Delphi 7.
 
 Ну и для работы софтины требуется установленный ClamWin.
+
+Подробное описание ClamSentinel можно прочитать по адресу https://xn--90abhbolvbbfgb9aje4m.xn--p1ai/clam-sentinel-antivirusnyj-monitor/
