@@ -1,0 +1,27 @@
+Clam Sentinel
+от Andrea Russo - Венеция Италия
+dynclient@users.sourceforge.net
+
+http://clamsentinel.sourceforge.net/
+
+Clam Sentinel это сканер реального времени для антивируса ClamWin.
+For Windows 98/98SE/ME/2000/XP/Vista, Windows 7 and Windows 8.
+
+Clam Sentinel требует чтобы был установлен антивирус ClamWin http://www.clamwin.com/
+
+Clam Sentinel это программа с иконкой в системном трее которая обнаруживает изменения в файловой системе и сканирует измененные файлы используя ClamWin (Clamscan.exe).
+Также обнаруживает подключение новых дисков (как правило USB-накопителей) и проверяет эти устройства пока  её не закроют или не отсоединят устройство.
+
+Для обновления Clam Sentinel сначало остановите роботу текущей версии Sentinel после установите программу или (без установки) распакуйте zip - файл в каталок Sentinel.
+Файл sentinel.exe не обновиться пока Sentinel запущен.
+
+Clam Sentinel по умолчанию перемещает инфицированные файлы в папку карантина, но вы можете изменить эту опцию в меню расширенных настроек.
+
+Clam Sentinel был проверен на Windows 98SE, Windows 2000 и Windows XP, Windows 7, Windows 8.1.
+
+Clam Sentinel разработан в среде Delphi Win32 (Delphi 4 или более поздней в плоть до Delphi 2005),
+исходный код доступен на сайте Sourceforge http://clamsentinel.cvs.sourceforge.net/
+
+Файл Sentinel.vxd используется только на Win98.
+
+Для более бодробной информации о том как настроить и использовать Clam Sentinel смотрите в  документах SentinelSimpleGuide.html и ExtraProtection.html в этом каталоге.
